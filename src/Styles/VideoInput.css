@@ -1,0 +1,36 @@
+.App {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  .VideoInput {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+  }
+  
+  .VideoInput_input {
+    display: none;
+  }
+  
+  .VideoInput_video {
+    display: block;
+    margin: 10px;
+  }
+  
+  .VideoInput_footer {
+    width: 20%;
+    min-height: 10px;
+    line-height: 10px;
+    text-align: center;
+  }
+
+.gap {
+    margin-top: 20px;
+    font-size: large;
+}
+.smallSpan {
+  font-size: 12px;
+}
